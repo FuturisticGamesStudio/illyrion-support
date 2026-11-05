@@ -1,6 +1,6 @@
 # Illyrion Support
 
-**Illyrion** is a 2D mobile space survival game developed and published by **Futuristic Games Studios**.
+**Illyrion** is a low-poly, top-down space survival arcade game for iPhone, iPad and Android, made by **Futuristic Games Studio**.
 
 For support, questions, bug reports, or concerns, please contact:
 
